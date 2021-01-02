@@ -1,7 +1,7 @@
 # PassKey
 
 An Encrypted Important information keeper application.  
-Save, Update, Delete your info.
+Save, Update, Delete your info.<br>
 The following app uses the Advanced Encryption Standard algorithm to store your data on your local device (in cache)
 
 
@@ -14,6 +14,6 @@ The following app uses the Advanced Encryption Standard algorithm to store your 
 
 
 
-• AES Encrypted
-• Save your most important information
+• AES Encrypted<br>
+• Save your most important information<br>
 • Direct (Hassle-free)
