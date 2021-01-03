@@ -9,6 +9,11 @@ Save, Update, Delete your info.<br>
 The following app uses the Advanced Encryption Standard algorithm to store your data on your local device (in cache)
 
 
+<br>
+• AES Encrypted<br>
+• Save your most important information<br>
+• Direct (Hassle-free)
+
 
 
 <img src="WhatsApp Image 2021-01-02 at 9.40.28 PM (2).jpeg" width=250>
@@ -19,8 +24,3 @@ The following app uses the Advanced Encryption Standard algorithm to store your 
 
 
 
-
-
-• AES Encrypted<br>
-• Save your most important information<br>
-• Direct (Hassle-free)
