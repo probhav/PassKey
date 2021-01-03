@@ -12,7 +12,7 @@ The following app uses the Advanced Encryption Standard algorithm to store your 
 <br>
 • AES Encrypted<br>
 • Save your most important information<br>
-• Direct (Hassle-free)
+• Direct (Hassle-free)<br>
 
 
 
