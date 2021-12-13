@@ -17,8 +17,9 @@ object AESEncryption {
     {
         try
         {
+            //This class specifies an initialization vector (IV). 
             val ivParameterSpec = IvParameterSpec(Base64.decode(iv, Base64.DEFAULT))
-
+            //Returns a SecretKeyFactory object that converts secret keys of the specified algorithm
             val factory = SecretKeyFactory.getInstance("PBKDF2WithHmacSHA1")
             val spec =  PBEKeySpec(secretKey.toCharArray(), Base64.decode(salt, Base64.DEFAULT), 10000, 256)
             val tmp = factory.generateSecret(spec)
